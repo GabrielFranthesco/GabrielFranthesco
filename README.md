@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Franthesco 👋
 
-<!--
-**GabrielFranthesco/GabrielFranthesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em Desenvolvimento Backend, Automação e Dados
 
-Here are some ideas to get you started:
+Tenho interesse em criar soluções utilizando programação, bancos de dados e automação de processos. Atualmente desenvolvo meus conhecimentos em Java, Python, SQL e Programação Orientada a Objetos através de estudos acadêmicos e projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Conhecimentos
+
+- Java
+- Python
+- SQL
+- Programação Orientada a Objetos
+- Banco de Dados
+- Automação de processos
+
+## 📌 Projetos
+
+🔹 Projetos pessoais envolvendo desenvolvimento de software, automação e análise de dados.
+
+## 📫 Contato
+
+LinkedIn: www.linkedin.com/in/gabriel-frathesco
