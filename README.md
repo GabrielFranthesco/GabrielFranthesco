@@ -16,7 +16,11 @@ Tenho interesse em criar soluções utilizando programação, bancos de dados e 
 
 ## 📌 Projetos
 
-🔹 Projetos pessoais envolvendo desenvolvimento de software, automação e análise de dados.
+### 📊 RubinOT Bazaar Analyzer
+Ferramenta desenvolvida em Python para coleta, organização e análise de dados de um mercado de leilões, utilizando automação e banco de dados para auxiliar na estimativa de valores.
+
+### 🖥️ Hackintosh Setup
+Documentação da configuração de um sistema Hackintosh, envolvendo pesquisa, compatibilidade de hardware e ajustes de software.
 
 ## 📫 Contato
 
