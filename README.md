@@ -24,4 +24,4 @@ Documentação da configuração de um sistema Hackintosh, envolvendo pesquisa, 
 
 ## 📫 Contato
 
-LinkedIn: www.linkedin.com/in/gabriel-frathesco
+LinkedIn: www.linkedin.com/in/gabriel-franthesco
